@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = STUDENTEVOTINGAPP
+build_property.RootNamespace = STUDENTEVOTINGAPP
+build_property.ProjectDir = c:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\STUDENTEVOTINGAPP\STUDENTEVOTINGAPP\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\STUDENTEVOTINGAPP\STUDENTEVOTINGAPP
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Admin/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Candidate/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Candidate/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Candidate/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Candidate/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXEdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Candidate/GetCandidatesByElectionAndPositionIds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXEdldENhbmRpZGF0ZXNCeUVsZWN0aW9uQW5kUG9zaXRpb25JZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Candidate/GetCandidatesByPositionId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXEdldENhbmRpZGF0ZXNCeVBvc2l0aW9uSWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Candidate/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Election/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Election/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Election/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Election/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25cR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Election/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Position/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Position/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Position/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Position/GetPositionsByElectionId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cR2V0UG9zaXRpb25zQnlFbGVjdGlvbklkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Position/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Student/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Voter/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Voter/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Voter/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJcR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Voter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Voter/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Voter/VoterPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJcVm90ZXJQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Vote/CastVote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZVxDYXN0Vm90ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Vote/GetVotesByCandidateId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZVxHZXRWb3Rlc0J5Q2FuZGlkYXRlSWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Vote/GetVotesByCandidateIdView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZVxHZXRWb3Rlc0J5Q2FuZGlkYXRlSWRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Vote/GetVotesByPositionId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZVxHZXRWb3Rlc0J5UG9zaXRpb25JZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Vote/GetVotesByPositionIdView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZVxHZXRWb3Rlc0J5UG9zaXRpb25JZFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/Vote/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OLALEKAN/Desktop/MyFiles/Projects/MyProjects/STUDENTEVOTINGAPP/STUDENTEVOTINGAPP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
